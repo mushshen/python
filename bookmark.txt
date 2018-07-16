@@ -1,0 +1,17 @@
+我的策略：
+https://www.joinquant.com/algorithm/index/edit?algorithmId=318d27edf88c3caa4006535eb7ed84d4
+
+API：
+https://www.joinquant.com/help/api/help?name=api#API%E6%96%87%E6%A1%A3
+
+技术分析指标：
+https://www.joinquant.com/data/dict/technicalanalysis
+
+python教程
+https://www.joinquant.com/study#python
+
+dataframe教程
+https://www.joinquant.com/post/c622a7825a6fa92b813b949281946ee6?f=stydy&m=python
+
+廖雪峰的python教程
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
