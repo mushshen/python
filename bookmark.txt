@@ -13,5 +13,8 @@ https://www.joinquant.com/study#python
 dataframe教程
 https://www.joinquant.com/post/c622a7825a6fa92b813b949281946ee6?f=stydy&m=python
 
+聚宽新手指南
+https://www.joinquant.com/post/4589?tag=algorithm
+
 廖雪峰的python教程
 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
