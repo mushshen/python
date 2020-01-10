@@ -1,5 +1,9 @@
-#!/usr/bin/env python
-#learn url:https://www.joinquant.com/post/3616?f=home&m=banner
-
-import jqdata
-jqdata.get_money_flow('000001.XSHE', '2015-12-25', '2015-12-30', fields="change_pct")
+# -*- coding: utf-8 -*-
+n = 123
+f = 456.789
+s1 = 'Hello, world'
+s2 = 'Hello, \'Adam\''
+s3 = r'Hello, "Bart"'
+s4 = r'''Hello,
+Lisa!'''
+print(s4)
